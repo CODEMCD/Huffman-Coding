@@ -1,5 +1,5 @@
 Huffman Encoding Information
-File: C:\Users\SUNGBUM\Desktop\SB\GIT\Huffman-Coding\test/test.txt
+File: test.txt
 Number of characters: 62
 Compression Ratio: 43.632
  Character  Frequency  Code Length         Huffman Code
