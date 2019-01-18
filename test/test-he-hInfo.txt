@@ -1,5 +1,5 @@
 Huffman Decoding Information
-[C:\Users\SUNGBUM\Desktop\SB\GIT\Huffman-Coding\test/test-he.txt] Number of characters: 62
+[test-he.txt] Number of characters: 62
  Character  Code Length         Huffman Code
                     3                  111
          "         10           1101010101
